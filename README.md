@@ -1,13 +1,14 @@
 # TareaAOP_E3
+Taller de Diseño de Software
 
-AdapterSinAOP
-![AdapterSinAOP](https://github.com/sAngello31/TareaAOP_E3/assets/96087936/6d3ed262-541e-432a-8414-aed082fafc8f)
+#AdapterSinAOP
+![Captura de pantalla 2023-06-10 123902](https://github.com/sAngello31/TareaAOP_E3/assets/96087936/30fc34ac-af6b-42e4-85ca-e9669dee87bf)
 
-AdapterConAOP
-![Captura de pantalla 2023-06-10 120638](https://github.com/sAngello31/TareaAOP_E3/assets/96087936/5351caf1-2ac2-4b4f-9eee-80c98eff24f6)
+#AdapterConAOP
+![Captura de pantalla 2023-06-10 123823](https://github.com/sAngello31/TareaAOP_E3/assets/96087936/2dc5ef76-b994-46cb-a98c-389429eed6d6)
 
-SingletonconAOP
-![Captura de pantalla 2023-06-10 120630](https://github.com/sAngello31/TareaAOP_E3/assets/96087936/8b249900-2b20-48f3-ae91-ccd3cb76c839)
+#SingletonconAOP
+![Captura de pantalla 2023-06-10 124018](https://github.com/sAngello31/TareaAOP_E3/assets/96087936/3dd31ebf-e24c-4553-bab2-078b71b4b0c4)
 
-SingletonsinAOP
-![Captura de pantalla 2023-06-10 120649](https://github.com/sAngello31/TareaAOP_E3/assets/96087936/aafac992-f584-4799-8d20-1564c23b40a6)
+#SingletonsinAOP
+![Captura de pantalla 2023-06-10 123929](https://github.com/sAngello31/TareaAOP_E3/assets/96087936/f17564c4-4177-4019-90ff-6066b8436ec8)
