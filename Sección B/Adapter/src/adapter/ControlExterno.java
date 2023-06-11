@@ -1,6 +1,6 @@
 package adapter;
 
-public class ControlExterno {
+public class ControlExterno{
 	public void empezarReproduccion() {
 		System.out.println("Iniciando Reproduccion");
 	}
